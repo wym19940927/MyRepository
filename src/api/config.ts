@@ -1,0 +1,1 @@
+export const WEATHERIP: string = 'http://wthrcdn.etouch.cn';
